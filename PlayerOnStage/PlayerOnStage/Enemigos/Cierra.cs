@@ -41,7 +41,7 @@ namespace PlayerOnStage
         public void Draw(GameTime gameTime, SpriteBatch spriteBatch)
         {
             SpriteEffects flip = SpriteEffects.None;
-            spriteBatch.Draw(cierraText, cierraPos, Color.White);
+            //spriteBatch.Draw(cierraText, cierraPos, Color.White);
             animacionCierra.Draw(gameTime, spriteBatch, enemPosicion, flip);
         }
         //Esta funcion se encarga de sumar o restar una posicion aleatoria inicial a las cierras que caen hacia la derecha o izquirda

@@ -16,7 +16,7 @@ namespace PlayerOnStage
 
         HUD HUD;
 
-        List<Proyectil> flechas;
+        public List<Proyectil> flechas;
 
         KeyboardState tecla_actual;
         KeyboardState tecla_anterior;
@@ -56,7 +56,7 @@ namespace PlayerOnStage
         bool golpeBool;
         bool mostrar_golpe;
         bool paracaidasBool;
-       public bool saltarBool;
+        bool saltarBool;
         bool ataque_arco;
         bool ataque_paraguas;
         bool mostrar_paraguas;
@@ -77,7 +77,7 @@ namespace PlayerOnStage
         Texture2D paraguard_izquierda;
         public Rectangle rect_paraguard_izquierda;
 
-        public Vector2 posicion = new Vector2(300, 910);//12180
+        public Vector2 posicion = new Vector2(13900, 910);//12180
         public Vector2 velocity;
 
 
@@ -291,6 +291,7 @@ namespace PlayerOnStage
         {
             #region      AVANZAR DERECHA & IZQUIERDA
 
+            velocity.X = 6f;
             if (atacadoBool == false && muerteBool == false && barridaBool == false)
             {
                 if (Keyboard.GetState().IsKeyDown(Keys.Right) && backflipBool == false)

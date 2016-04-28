@@ -40,7 +40,7 @@ namespace PlayerOnStage
             {
                 case 1:
 
-                    if (position.X <= 15350 && llego == false)
+                    if (position.X <= 15450 && llego == false)
                     {
                         if (position.X < viewport.Width / 2)
                             centre.X = viewport.Width / 2;

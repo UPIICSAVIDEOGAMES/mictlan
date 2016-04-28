@@ -21,5 +21,4 @@ C:\Users\Vale\Desktop\PlayerOnStage-2-19.5\PlayerOnStage\PlayerOnStageContent\ob
 \\psf\Home\Desktop\Versiones de Juego\PlayerOnStage-2-23\PlayerOnStage\PlayerOnStageContent\obj\x86\Debug\ResolveAssemblyReference.cache
 C:\Users\rk_ri_000\Desktop\MICTLAN\PlayerOnStage-2-23\PlayerOnStage\PlayerOnStageContent\obj\x86\Debug\PlayerOnStageContent.contentprojResolveAssemblyReference.cache
 C:\Users\munguia\Documents\Documentos salvador\Raptor-UVG\juegoversiones\PlayerOnStage-2 3\version nueva\PlayerOnStage-3 0\PlayerOnStage\PlayerOnStageContent\obj\x86\Debug\PlayerOnStageContent.contentprojResolveAssemblyReference.cache
-C:\Users\munguia\Documents\Documentos salvador\Raptor-UVG\juegoversiones\PlayerOnStage-2 3\version nueva\PlayerOnStage-3 1\PlayerOnStage\PlayerOnStageContent\obj\x86\Debug\PlayerOnStageContent.contentprojResolveAssemblyReference.cache
-C:\Users\munguia\Documents\Documentos salvador\Raptor-UVG\juegoversiones\PlayerOnStage-2 3\version nueva\PlayerOnStage-3 2\PlayerOnStage\PlayerOnStageContent\obj\x86\Debug\PlayerOnStageContent.contentprojResolveAssemblyReference.cache
+\\psf\Home\Desktop\Versiones de Juego\Version 3\PlayerOnStage-3 1\PlayerOnStage\PlayerOnStageContent\obj\x86\Debug\ResolveAssemblyReference.cache

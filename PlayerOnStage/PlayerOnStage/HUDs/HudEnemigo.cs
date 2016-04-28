@@ -34,6 +34,22 @@ namespace PlayerOnStage
                     enemigo.enemDie = true;
                 }
             }
+            if (jugador.flechas.Count > 1)
+            {
+                foreach (Proyectil proyectil in jugador.flechas)
+                {
+                    if (proyectil.rectangulo_flecha.Intersects(enemigo.enemigoRect))
+                    {
+
+                        vida -= 1;
+                        enemigo.enemGetHit = true;
+                    }
+                    if (vida <= 0)
+                    {
+                        enemigo.enemDie = true;
+                    }
+                }
+            }
 
         }
     

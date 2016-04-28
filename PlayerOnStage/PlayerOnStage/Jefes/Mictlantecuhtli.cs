@@ -30,7 +30,7 @@ namespace PlayerOnStage
         Leer_Textura mictSilla;
         Leer_Textura mictEnfadado;
         Leer_Textura mictMandarAtaque;
-
+        bool flipeado = true;
 
         Texture2D mictText;
 
@@ -84,7 +84,7 @@ namespace PlayerOnStage
             mictSentado = new Leer_Textura(Content.Load<Texture2D>("Acciones/miclantechutli"), 236, 0.25f, false);
             mictEnfadado = new Leer_Textura(Content.Load<Texture2D>("Acciones/MicltantechutliEnojado"), 236, 0.25f, true);
             mictMandarAtaque = new Leer_Textura(Content.Load<Texture2D>("Acciones/MicltantechutliEnojado"), 236, 0.25f, true);
-            mictComiendo = new Leer_Textura(Content.Load<Texture2D>("Miclantechutli/Miclantechutli"), 306, 0.25f, false);
+            mictComiendo = new Leer_Textura(Content.Load<Texture2D>("Miclantechutli/Miclantechutli8"), 311, 0.15f, true);
 
             mictText = Content.Load<Texture2D>("Rectangles/RectangleMicltantechutli");
             sillaText = Content.Load<Texture2D>("Rectangles/sillaMiclantichutli");
@@ -120,7 +120,8 @@ namespace PlayerOnStage
                 if (!parado)
                 {
 
-                    animacionMictl.PlayAnimation(mictSentado);
+                    flipeado = false;
+                    animacionMictl.PlayAnimation(mictMandarAtaque);
 
                     if (timeCounterComer <= 0)
                     {
@@ -153,9 +154,31 @@ namespace PlayerOnStage
                         zombie.Update(player);
                         player.Update(zombie);
                     }
+                    if (player.flechas.Count > 1)
+                    {
+                        foreach (Proyectil proyectil in player.flechas)
+                        {
+                            if (proyectil.rectangulo_flecha.Intersects(jefeRect))
+                            {
+
+                                player.getHUD().rect_HP_Boss.Width -= 1;
+                                this.jefeGetHit = true;
+                            }
+                            if (player.getHUD().rect_HP_Boss.Width <= 0)
+                            {
+                                base.jefeDie = true;
+                            }
+                        }
+                    }
                 }
                 if (parado)
+                {
+                    if (!regresa)
+                        flipeado = true;
+                    else
+                        flipeado = false;
                     animacionMictl.PlayAnimation(mictComiendo);
+                }
 
             }
         }
@@ -165,7 +188,12 @@ namespace PlayerOnStage
 
             SpriteEffects flip = SpriteEffects.None;
 
-            spriteBatch.Draw(mictText, jefeRect, Color.White);
+            if (flipeado == false)
+                flip = SpriteEffects.None;
+            else if (flipeado == true)
+                flip = SpriteEffects.FlipHorizontally;
+
+            //spriteBatch.Draw(mictText, jefeRect, Color.White);
             spriteBatch.Draw(sillaText, sillaRect, Color.White);
             animacionMictl.Draw(gameTime, spriteBatch, jefePosicion, flip);
             foreach (Cierra cierra in cierras)
@@ -241,7 +269,7 @@ namespace PlayerOnStage
 
                     }
                     //Ataque cierra tiene una probabilidad de 0.4
-                    if (ataqueProb <= 0.4 && llega == false    &&!paralizarPlayer )
+                    if (ataqueProb <= 0.4 && llega == false && !paralizarPlayer)
                     {
                         if (cierras.Count < 8)
                         {
@@ -392,6 +420,7 @@ namespace PlayerOnStage
             if (regresa == true)
             {
 
+
                 //  if (posicion.X != GraphicsDeviceManager.DefaultBackBufferWidth - (236 / 2))
                 if (jefeRect.X < POSICION_INICIAL)
                 {
@@ -403,6 +432,7 @@ namespace PlayerOnStage
                 {
                     parado = false;
                     regresa = false;
+
                 }
             }
 

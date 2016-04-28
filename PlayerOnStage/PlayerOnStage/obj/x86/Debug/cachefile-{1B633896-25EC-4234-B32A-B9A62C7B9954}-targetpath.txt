@@ -86,9 +86,9 @@ Content\Acciones\Stand.xnb
 Content\Rectangles\fire.xnb
 Content\Rectangles\RectangleAire.xnb
 Content\Rectangles\ReectangleAireHori.xnb
-Content\Miclantechutli\Miclantechutli.xnb
 Content\Player\Ataque_Paraguas_Agachado.xnb
 Content\Player\Golpe.xnb
+Content\Miclantechutli\Miclantechutli8.xnb
 Content\MuestraDatos.xnb
 Content\Huitzilopochtli.xnb
 Content\Huitzilopochtli.wma
@@ -96,3 +96,6 @@ Content\HuitzilopochtliF.xnb
 Content\HuitzilopochtliF.wma
 Content\Final.xnb
 Content\Final.wma
+Content\Enemigos\PuntaPedernal\puntaPedernal2.xnb
+Content\Tiles\Tile19.xnb
+Content\Tiles\Tile20.xnb

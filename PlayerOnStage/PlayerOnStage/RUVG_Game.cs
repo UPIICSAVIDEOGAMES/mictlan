@@ -126,7 +126,6 @@ namespace PlayerOnStage
 
             spriteBatch.Begin(SpriteSortMode.Deferred, BlendState.AlphaBlend, null, null, null, null, camera.Transform);
             spriteBatch.DrawString(muestra, "X " + player.posicion.X, new Vector2(player.posicion.X, player.posicion.Y - 100), Color.White);
-            spriteBatch.DrawString(muestra, "Y " + player.posicion.Y, new Vector2(player.posicion.X, player.posicion.Y - 150), Color.White);
             switch (nivel)
             {
                 case 1:

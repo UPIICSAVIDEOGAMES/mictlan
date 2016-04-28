@@ -1,0 +1,932 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Tiles\Tile1.png</Source>
+      <Name>Tiles\Tile1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\psf\Home\Documents\Proyectos\Versiones de Juego\Version 3\PlayerOnStage-3 1\PlayerOnStage\PlayerOnStage\bin\x86\Release\Content\Tiles\Tile1.xnb</Output>
+      <Time>2013-11-01T14:11:08-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\Tile10.png</Source>
+      <Name>Tiles\Tile10</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\psf\Home\Documents\Proyectos\Versiones de Juego\Version 3\PlayerOnStage-3 1\PlayerOnStage\PlayerOnStage\bin\x86\Release\Content\Tiles\Tile10.xnb</Output>
+      <Time>2013-11-01T14:11:08-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\Tile11.png</Source>
+      <Name>Tiles\Tile11</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\psf\Home\Documents\Proyectos\Versiones de Juego\Version 3\PlayerOnStage-3 1\PlayerOnStage\PlayerOnStage\bin\x86\Release\Content\Tiles\Tile11.xnb</Output>
+      <Time>2013-11-01T14:11:08-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\Tile12.png</Source>
+      <Name>Tiles\Tile12</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\psf\Home\Documents\Proyectos\Versiones de Juego\Version 3\PlayerOnStage-3 1\PlayerOnStage\PlayerOnStage\bin\x86\Release\Content\Tiles\Tile12.xnb</Output>
+      <Time>2013-11-01T14:11:08-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\Tile13.png</Source>
+      <Name>Tiles\Tile13</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\psf\Home\Documents\Proyectos\Versiones de Juego\Version 3\PlayerOnStage-3 1\PlayerOnStage\PlayerOnStage\bin\x86\Release\Content\Tiles\Tile13.xnb</Output>
+      <Time>2013-11-01T14:11:08-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\Tile14.png</Source>
+      <Name>Tiles\Tile14</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\psf\Home\Documents\Proyectos\Versiones de Juego\Version 3\PlayerOnStage-3 1\PlayerOnStage\PlayerOnStage\bin\x86\Release\Content\Tiles\Tile14.xnb</Output>
+      <Time>2013-11-01T14:11:08-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\Tile15.png</Source>
+      <Name>Tiles\Tile15</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\psf\Home\Documents\Proyectos\Versiones de Juego\Version 3\PlayerOnStage-3 1\PlayerOnStage\PlayerOnStage\bin\x86\Release\Content\Tiles\Tile15.xnb</Output>
+      <Time>2013-11-01T14:11:08-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\Tile16.png</Source>
+      <Name>Tiles\Tile16</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\psf\Home\Documents\Proyectos\Versiones de Juego\Version 3\PlayerOnStage-3 1\PlayerOnStage\PlayerOnStage\bin\x86\Release\Content\Tiles\Tile16.xnb</Output>
+      <Time>2013-11-01T14:11:08-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\Tile17.png</Source>
+      <Name>Tiles\Tile17</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\psf\Home\Documents\Proyectos\Versiones de Juego\Version 3\PlayerOnStage-3 1\PlayerOnStage\PlayerOnStage\bin\x86\Release\Content\Tiles\Tile17.xnb</Output>
+      <Time>2013-11-01T14:11:08-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\Tile18.png</Source>
+      <Name>Tiles\Tile18</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\psf\Home\Documents\Proyectos\Versiones de Juego\Version 3\PlayerOnStage-3 1\PlayerOnStage\PlayerOnStage\bin\x86\Release\Content\Tiles\Tile18.xnb</Output>
+      <Time>2013-11-01T14:11:08-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\Tile2.png</Source>
+      <Name>Tiles\Tile2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\psf\Home\Documents\Proyectos\Versiones de Juego\Version 3\PlayerOnStage-3 1\PlayerOnStage\PlayerOnStage\bin\x86\Release\Content\Tiles\Tile2.xnb</Output>
+      <Time>2013-11-01T14:11:08-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\Tile3.png</Source>
+      <Name>Tiles\Tile3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\psf\Home\Documents\Proyectos\Versiones de Juego\Version 3\PlayerOnStage-3 1\PlayerOnStage\PlayerOnStage\bin\x86\Release\Content\Tiles\Tile3.xnb</Output>
+      <Time>2013-11-01T14:11:08-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\Tile5.png</Source>
+      <Name>Tiles\Tile5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\psf\Home\Documents\Proyectos\Versiones de Juego\Version 3\PlayerOnStage-3 1\PlayerOnStage\PlayerOnStage\bin\x86\Release\Content\Tiles\Tile5.xnb</Output>
+      <Time>2013-11-01T14:11:08-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\Tile6.png</Source>
+      <Name>Tiles\Tile6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\psf\Home\Documents\Proyectos\Versiones de Juego\Version 3\PlayerOnStage-3 1\PlayerOnStage\PlayerOnStage\bin\x86\Release\Content\Tiles\Tile6.xnb</Output>
+      <Time>2013-11-01T14:11:08-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\Tile7.png</Source>
+      <Name>Tiles\Tile7</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\psf\Home\Documents\Proyectos\Versiones de Juego\Version 3\PlayerOnStage-3 1\PlayerOnStage\PlayerOnStage\bin\x86\Release\Content\Tiles\Tile7.xnb</Output>
+      <Time>2013-11-01T14:11:08-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\Tile8.png</Source>
+      <Name>Tiles\Tile8</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\psf\Home\Documents\Proyectos\Versiones de Juego\Version 3\PlayerOnStage-3 1\PlayerOnStage\PlayerOnStage\bin\x86\Release\Content\Tiles\Tile8.xnb</Output>
+      <Time>2013-11-01T14:11:08-05:00</Time>
+    </Item>
+    <Item>
+      <Source>HUD\Arco.png</Source>
+      <Name>HUD\Arco</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\psf\Home\Documents\Proyectos\Versiones de Juego\Version 3\PlayerOnStage-3 1\PlayerOnStage\PlayerOnStage\bin\x86\Release\Content\HUD\Arco.xnb</Output>
+      <Time>2013-11-01T14:35:42-05:00</Time>
+    </Item>
+    <Item>
+      <Source>HUD\CalendarioA.png</Source>
+      <Name>HUD\CalendarioA</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\psf\Home\Documents\Proyectos\Versiones de Juego\Version 3\PlayerOnStage-3 1\PlayerOnStage\PlayerOnStage\bin\x86\Release\Content\HUD\CalendarioA.xnb</Output>
+      <Time>2013-11-01T14:35:42-05:00</Time>
+    </Item>
+    <Item>
+      <Source>HUD\CalendarioB.png</Source>
+      <Name>HUD\CalendarioB</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\psf\Home\Documents\Proyectos\Versiones de Juego\Version 3\PlayerOnStage-3 1\PlayerOnStage\PlayerOnStage\bin\x86\Release\Content\HUD\CalendarioB.xnb</Output>
+      <Time>2013-11-01T14:35:42-05:00</Time>
+    </Item>
+    <Item>
+      <Source>HUD\HP_Boss.png</Source>
+      <Name>HUD\HP_Boss</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\psf\Home\Documents\Proyectos\Versiones de Juego\Version 3\PlayerOnStage-3 1\PlayerOnStage\PlayerOnStage\bin\x86\Release\Content\HUD\HP_Boss.xnb</Output>
+      <Time>2013-11-01T14:35:42-05:00</Time>
+    </Item>
+    <Item>
+      <Source>HUD\HP_Player.png</Source>
+      <Name>HUD\HP_Player</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\psf\Home\Documents\Proyectos\Versiones de Juego\Version 3\PlayerOnStage-3 1\PlayerOnStage\PlayerOnStage\bin\x86\Release\Content\HUD\HP_Player.xnb</Output>
+      <Time>2013-11-01T14:35:42-05:00</Time>
+    </Item>
+    <Item>
+      <Source>HUD\Mascara.png</Source>
+      <Name>HUD\Mascara</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\psf\Home\Documents\Proyectos\Versiones de Juego\Version 3\PlayerOnStage-3 1\PlayerOnStage\PlayerOnStage\bin\x86\Release\Content\HUD\Mascara.xnb</Output>
+      <Time>2013-11-01T14:35:42-05:00</Time>
+    </Item>
+    <Item>
+      <Source>HUD\Mira.png</Source>
+      <Name>HUD\Mira</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\psf\Home\Documents\Proyectos\Versiones de Juego\Version 3\PlayerOnStage-3 1\PlayerOnStage\PlayerOnStage\bin\x86\Release\Content\HUD\Mira.xnb</Output>
+      <Time>2013-11-01T14:35:42-05:00</Time>
+    </Item>
+    <Item>
+      <Source>HUD\MP_Player.png</Source>
+      <Name>HUD\MP_Player</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\psf\Home\Documents\Proyectos\Versiones de Juego\Version 3\PlayerOnStage-3 1\PlayerOnStage\PlayerOnStage\bin\x86\Release\Content\HUD\MP_Player.xnb</Output>
+      <Time>2013-11-01T14:35:42-05:00</Time>
+    </Item>
+    <Item>
+      <Source>HUD\Paraguas.png</Source>
+      <Name>HUD\Paraguas</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\psf\Home\Documents\Proyectos\Versiones de Juego\Version 3\PlayerOnStage-3 1\PlayerOnStage\PlayerOnStage\bin\x86\Release\Content\HUD\Paraguas.xnb</Output>
+      <Time>2013-11-01T14:35:42-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Rectangles\Floor.png</Source>
+      <Name>Rectangles\Floor</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\psf\Home\Documents\Proyectos\Versiones de Juego\Version 3\PlayerOnStage-3 1\PlayerOnStage\PlayerOnStage\bin\x86\Release\Content\Rectangles\Floor.xnb</Output>
+      <Time>2013-11-01T14:35:42-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Rectangles\Platform.png</Source>
+      <Name>Rectangles\Platform</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\psf\Home\Documents\Proyectos\Versiones de Juego\Version 3\PlayerOnStage-3 1\PlayerOnStage\PlayerOnStage\bin\x86\Release\Content\Rectangles\Platform.xnb</Output>
+      <Time>2013-11-01T14:35:42-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Rectangles\RectangleDeath.png</Source>
+      <Name>Rectangles\RectangleDeath</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\psf\Home\Documents\Proyectos\Versiones de Juego\Version 3\PlayerOnStage-3 1\PlayerOnStage\PlayerOnStage\bin\x86\Release\Content\Rectangles\RectangleDeath.xnb</Output>
+      <Time>2013-11-01T14:35:42-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Rectangles\RectangleHit.png</Source>
+      <Name>Rectangles\RectangleHit</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\psf\Home\Documents\Proyectos\Versiones de Juego\Version 3\PlayerOnStage-3 1\PlayerOnStage\PlayerOnStage\bin\x86\Release\Content\Rectangles\RectangleHit.xnb</Output>
+      <Time>2013-11-01T14:35:42-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Rectangles\RectangleStand.png</Source>
+      <Name>Rectangles\RectangleStand</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\psf\Home\Documents\Proyectos\Versiones de Juego\Version 3\PlayerOnStage-3 1\PlayerOnStage\PlayerOnStage\bin\x86\Release\Content\Rectangles\RectangleStand.xnb</Output>
+      <Time>2013-11-01T14:35:42-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Rectangles\RectangleWhip.png</Source>
+      <Name>Rectangles\RectangleWhip</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\psf\Home\Documents\Proyectos\Versiones de Juego\Version 3\PlayerOnStage-3 1\PlayerOnStage\PlayerOnStage\bin\x86\Release\Content\Rectangles\RectangleWhip.xnb</Output>
+      <Time>2013-11-01T14:35:42-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Acciones\cierra.png</Source>
+      <Name>Acciones\cierra</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\psf\Home\Documents\Proyectos\Versiones de Juego\Version 3\PlayerOnStage-3 1\PlayerOnStage\PlayerOnStage\bin\x86\Release\Content\Acciones\cierra.xnb</Output>
+      <Time>2013-11-01T20:37:54-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Acciones\comer.png</Source>
+      <Name>Acciones\comer</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\psf\Home\Documents\Proyectos\Versiones de Juego\Version 3\PlayerOnStage-3 1\PlayerOnStage\PlayerOnStage\bin\x86\Release\Content\Acciones\comer.xnb</Output>
+      <Time>2013-11-01T20:37:54-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Acciones\DespuesDeComer.png</Source>
+      <Name>Acciones\DespuesDeComer</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\psf\Home\Documents\Proyectos\Versiones de Juego\Version 3\PlayerOnStage-3 1\PlayerOnStage\PlayerOnStage\bin\x86\Release\Content\Acciones\DespuesDeComer.xnb</Output>
+      <Time>2013-11-01T20:37:54-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Acciones\miclantechutli.png</Source>
+      <Name>Acciones\miclantechutli</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\psf\Home\Documents\Proyectos\Versiones de Juego\Version 3\PlayerOnStage-3 1\PlayerOnStage\PlayerOnStage\bin\x86\Release\Content\Acciones\miclantechutli.xnb</Output>
+      <Time>2013-11-01T20:37:54-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Acciones\MicltantechutliEnojado.png</Source>
+      <Name>Acciones\MicltantechutliEnojado</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\psf\Home\Documents\Proyectos\Versiones de Juego\Version 3\PlayerOnStage-3 1\PlayerOnStage\PlayerOnStage\bin\x86\Release\Content\Acciones\MicltantechutliEnojado.xnb</Output>
+      <Time>2013-11-01T20:37:54-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Acciones\RayoMoralMicltanz.png</Source>
+      <Name>Acciones\RayoMoralMicltanz</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\psf\Home\Documents\Proyectos\Versiones de Juego\Version 3\PlayerOnStage-3 1\PlayerOnStage\PlayerOnStage\bin\x86\Release\Content\Acciones\RayoMoralMicltanz.xnb</Output>
+      <Time>2013-11-01T20:37:54-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Acciones\zombieDer.png</Source>
+      <Name>Acciones\zombieDer</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\psf\Home\Documents\Proyectos\Versiones de Juego\Version 3\PlayerOnStage-3 1\PlayerOnStage\PlayerOnStage\bin\x86\Release\Content\Acciones\zombieDer.xnb</Output>
+      <Time>2013-11-01T20:37:54-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Acciones\zombieIzq.png</Source>
+      <Name>Acciones\zombieIzq</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\psf\Home\Documents\Proyectos\Versiones de Juego\Version 3\PlayerOnStage-3 1\PlayerOnStage\PlayerOnStage\bin\x86\Release\Content\Acciones\zombieIzq.xnb</Output>
+      <Time>2013-11-01T20:37:54-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Rectangles\RectangleCierra.png</Source>
+      <Name>Rectangles\RectangleCierra</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\psf\Home\Documents\Proyectos\Versiones de Juego\Version 3\PlayerOnStage-3 1\PlayerOnStage\PlayerOnStage\bin\x86\Release\Content\Rectangles\RectangleCierra.xnb</Output>
+      <Time>2013-11-01T20:38:20-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Rectangles\RectangleMicltantechutli.png</Source>
+      <Name>Rectangles\RectangleMicltantechutli</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\psf\Home\Documents\Proyectos\Versiones de Juego\Version 3\PlayerOnStage-3 1\PlayerOnStage\PlayerOnStage\bin\x86\Release\Content\Rectangles\RectangleMicltantechutli.xnb</Output>
+      <Time>2013-11-01T20:38:20-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Rectangles\RectangleZombie.png</Source>
+      <Name>Rectangles\RectangleZombie</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\psf\Home\Documents\Proyectos\Versiones de Juego\Version 3\PlayerOnStage-3 1\PlayerOnStage\PlayerOnStage\bin\x86\Release\Content\Rectangles\RectangleZombie.xnb</Output>
+      <Time>2013-11-01T20:38:20-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Rectangles\RectanlgeSilla.png</Source>
+      <Name>Rectangles\RectanlgeSilla</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\psf\Home\Documents\Proyectos\Versiones de Juego\Version 3\PlayerOnStage-3 1\PlayerOnStage\PlayerOnStage\bin\x86\Release\Content\Rectangles\RectanlgeSilla.xnb</Output>
+      <Time>2013-11-01T20:38:20-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Rectangles\sillaMiclantichutli.png</Source>
+      <Name>Rectangles\sillaMiclantichutli</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\psf\Home\Documents\Proyectos\Versiones de Juego\Version 3\PlayerOnStage-3 1\PlayerOnStage\PlayerOnStage\bin\x86\Release\Content\Rectangles\sillaMiclantichutli.xnb</Output>
+      <Time>2013-11-01T20:38:20-05:00</Time>
+    </Item>
+    <Item>
+      <Source>background.png</Source>
+      <Name>background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\psf\Home\Documents\Proyectos\Versiones de Juego\Version 3\PlayerOnStage-3 1\PlayerOnStage\PlayerOnStage\bin\x86\Release\Content\background.xnb</Output>
+      <Time>2013-11-03T12:05:06-06:00</Time>
+    </Item>
+    <Item>
+      <Source>background1.png</Source>
+      <Name>background1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\psf\Home\Documents\Proyectos\Versiones de Juego\Version 3\PlayerOnStage-3 1\PlayerOnStage\PlayerOnStage\bin\x86\Release\Content\background1.xnb</Output>
+      <Time>2013-11-03T12:20:20-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Armas\Paraguas_Protector_Derecha.png</Source>
+      <Name>Armas\Paraguas_Protector_Derecha</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\psf\Home\Documents\Proyectos\Versiones de Juego\Version 3\PlayerOnStage-3 1\PlayerOnStage\PlayerOnStage\bin\x86\Release\Content\Armas\Paraguas_Protector_Derecha.xnb</Output>
+      <Time>2013-11-01T23:40:50-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Armas\Paraguas_Protector_Izquierda.png</Source>
+      <Name>Armas\Paraguas_Protector_Izquierda</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\psf\Home\Documents\Proyectos\Versiones de Juego\Version 3\PlayerOnStage-3 1\PlayerOnStage\PlayerOnStage\bin\x86\Release\Content\Armas\Paraguas_Protector_Izquierda.xnb</Output>
+      <Time>2013-11-02T15:55:28-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Proyectiles\RectangleFlechaD.png</Source>
+      <Name>Proyectiles\RectangleFlechaD</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\psf\Home\Documents\Proyectos\Versiones de Juego\Version 3\PlayerOnStage-3 1\PlayerOnStage\PlayerOnStage\bin\x86\Release\Content\Proyectiles\RectangleFlechaD.xnb</Output>
+      <Time>2013-11-14T05:14:22-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Proyectiles\RectangleFlechaI.png</Source>
+      <Name>Proyectiles\RectangleFlechaI</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\psf\Home\Documents\Proyectos\Versiones de Juego\Version 3\PlayerOnStage-3 1\PlayerOnStage\PlayerOnStage\bin\x86\Release\Content\Proyectiles\RectangleFlechaI.xnb</Output>
+      <Time>2013-11-14T05:16:28-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Player\Agachar.png</Source>
+      <Name>Player\Agachar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\psf\Home\Documents\Proyectos\Versiones de Juego\Version 3\PlayerOnStage-3 1\PlayerOnStage\PlayerOnStage\bin\x86\Release\Content\Player\Agachar.xnb</Output>
+      <Time>2013-11-14T02:35:26-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Player\Ataque_Arco.png</Source>
+      <Name>Player\Ataque_Arco</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\psf\Home\Documents\Proyectos\Versiones de Juego\Version 3\PlayerOnStage-3 1\PlayerOnStage\PlayerOnStage\bin\x86\Release\Content\Player\Ataque_Arco.xnb</Output>
+      <Time>2013-11-14T04:58:38-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Player\Ataque_Paraguas.png</Source>
+      <Name>Player\Ataque_Paraguas</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\psf\Home\Documents\Proyectos\Versiones de Juego\Version 3\PlayerOnStage-3 1\PlayerOnStage\PlayerOnStage\bin\x86\Release\Content\Player\Ataque_Paraguas.xnb</Output>
+      <Time>2013-11-14T03:23:08-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Player\BackFlip.png</Source>
+      <Name>Player\BackFlip</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\psf\Home\Documents\Proyectos\Versiones de Juego\Version 3\PlayerOnStage-3 1\PlayerOnStage\PlayerOnStage\bin\x86\Release\Content\Player\BackFlip.xnb</Output>
+      <Time>2013-11-14T03:05:10-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Player\Barrida.png</Source>
+      <Name>Player\Barrida</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\psf\Home\Documents\Proyectos\Versiones de Juego\Version 3\PlayerOnStage-3 1\PlayerOnStage\PlayerOnStage\bin\x86\Release\Content\Player\Barrida.xnb</Output>
+      <Time>2013-11-14T01:50:16-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Player\Caida.png</Source>
+      <Name>Player\Caida</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\psf\Home\Documents\Proyectos\Versiones de Juego\Version 3\PlayerOnStage-3 1\PlayerOnStage\PlayerOnStage\bin\x86\Release\Content\Player\Caida.xnb</Output>
+      <Time>2013-11-02T00:24:52-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Player\Correr.png</Source>
+      <Name>Player\Correr</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\psf\Home\Documents\Proyectos\Versiones de Juego\Version 3\PlayerOnStage-3 1\PlayerOnStage\PlayerOnStage\bin\x86\Release\Content\Player\Correr.xnb</Output>
+      <Time>2013-11-13T04:40:34-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Player\Herido.png</Source>
+      <Name>Player\Herido</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\psf\Home\Documents\Proyectos\Versiones de Juego\Version 3\PlayerOnStage-3 1\PlayerOnStage\PlayerOnStage\bin\x86\Release\Content\Player\Herido.xnb</Output>
+      <Time>2013-11-01T14:35:44-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Player\Inactivo.png</Source>
+      <Name>Player\Inactivo</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\psf\Home\Documents\Proyectos\Versiones de Juego\Version 3\PlayerOnStage-3 1\PlayerOnStage\PlayerOnStage\bin\x86\Release\Content\Player\Inactivo.xnb</Output>
+      <Time>2013-11-14T02:03:16-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Player\Muerte.png</Source>
+      <Name>Player\Muerte</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\psf\Home\Documents\Proyectos\Versiones de Juego\Version 3\PlayerOnStage-3 1\PlayerOnStage\PlayerOnStage\bin\x86\Release\Content\Player\Muerte.xnb</Output>
+      <Time>2013-11-01T14:35:44-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Player\Paralizado.png</Source>
+      <Name>Player\Paralizado</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\psf\Home\Documents\Proyectos\Versiones de Juego\Version 3\PlayerOnStage-3 1\PlayerOnStage\PlayerOnStage\bin\x86\Release\Content\Player\Paralizado.xnb</Output>
+      <Time>2013-11-13T04:28:06-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Player\Saltar.png</Source>
+      <Name>Player\Saltar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\psf\Home\Documents\Proyectos\Versiones de Juego\Version 3\PlayerOnStage-3 1\PlayerOnStage\PlayerOnStage\bin\x86\Release\Content\Player\Saltar.xnb</Output>
+      <Time>2013-11-01T14:35:44-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Acciones\Agachar.png</Source>
+      <Name>Acciones\Agachar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\psf\Home\Documents\Proyectos\Versiones de Juego\Version 3\PlayerOnStage-3 1\PlayerOnStage\PlayerOnStage\bin\x86\Release\Content\Acciones\Agachar.xnb</Output>
+      <Time>2013-11-01T14:35:42-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Acciones\Atacar.png</Source>
+      <Name>Acciones\Atacar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\psf\Home\Documents\Proyectos\Versiones de Juego\Version 3\PlayerOnStage-3 1\PlayerOnStage\PlayerOnStage\bin\x86\Release\Content\Acciones\Atacar.xnb</Output>
+      <Time>2013-11-01T14:35:42-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Acciones\Ataque_bajo.png</Source>
+      <Name>Acciones\Ataque_bajo</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\psf\Home\Documents\Proyectos\Versiones de Juego\Version 3\PlayerOnStage-3 1\PlayerOnStage\PlayerOnStage\bin\x86\Release\Content\Acciones\Ataque_bajo.xnb</Output>
+      <Time>2013-11-01T14:35:42-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Acciones\Backflip.png</Source>
+      <Name>Acciones\Backflip</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\psf\Home\Documents\Proyectos\Versiones de Juego\Version 3\PlayerOnStage-3 1\PlayerOnStage\PlayerOnStage\bin\x86\Release\Content\Acciones\Backflip.xnb</Output>
+      <Time>2013-11-01T20:37:54-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Acciones\Caminar.png</Source>
+      <Name>Acciones\Caminar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\psf\Home\Documents\Proyectos\Versiones de Juego\Version 3\PlayerOnStage-3 1\PlayerOnStage\PlayerOnStage\bin\x86\Release\Content\Acciones\Caminar.xnb</Output>
+      <Time>2013-11-01T14:35:42-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Acciones\CAttack.png</Source>
+      <Name>Acciones\CAttack</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\psf\Home\Documents\Proyectos\Versiones de Juego\Version 3\PlayerOnStage-3 1\PlayerOnStage\PlayerOnStage\bin\x86\Release\Content\Acciones\CAttack.xnb</Output>
+      <Time>2013-11-01T20:37:54-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Acciones\Cross.png</Source>
+      <Name>Acciones\Cross</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\psf\Home\Documents\Proyectos\Versiones de Juego\Version 3\PlayerOnStage-3 1\PlayerOnStage\PlayerOnStage\bin\x86\Release\Content\Acciones\Cross.xnb</Output>
+      <Time>2013-11-01T14:35:42-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Acciones\CrouchAttack.png</Source>
+      <Name>Acciones\CrouchAttack</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\psf\Home\Documents\Proyectos\Versiones de Juego\Version 3\PlayerOnStage-3 1\PlayerOnStage\PlayerOnStage\bin\x86\Release\Content\Acciones\CrouchAttack.xnb</Output>
+      <Time>2013-11-01T14:35:42-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Acciones\Crush.png</Source>
+      <Name>Acciones\Crush</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\psf\Home\Documents\Proyectos\Versiones de Juego\Version 3\PlayerOnStage-3 1\PlayerOnStage\PlayerOnStage\bin\x86\Release\Content\Acciones\Crush.xnb</Output>
+      <Time>2013-11-01T20:37:54-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Acciones\Die.png</Source>
+      <Name>Acciones\Die</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\psf\Home\Documents\Proyectos\Versiones de Juego\Version 3\PlayerOnStage-3 1\PlayerOnStage\PlayerOnStage\bin\x86\Release\Content\Acciones\Die.xnb</Output>
+      <Time>2013-11-01T20:37:54-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Acciones\Especial.png</Source>
+      <Name>Acciones\Especial</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\psf\Home\Documents\Proyectos\Versiones de Juego\Version 3\PlayerOnStage-3 1\PlayerOnStage\PlayerOnStage\bin\x86\Release\Content\Acciones\Especial.xnb</Output>
+      <Time>2013-11-01T14:35:42-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Acciones\Espera.png</Source>
+      <Name>Acciones\Espera</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\psf\Home\Documents\Proyectos\Versiones de Juego\Version 3\PlayerOnStage-3 1\PlayerOnStage\PlayerOnStage\bin\x86\Release\Content\Acciones\Espera.xnb</Output>
+      <Time>2013-11-01T20:37:54-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Acciones\Herido.png</Source>
+      <Name>Acciones\Herido</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\psf\Home\Documents\Proyectos\Versiones de Juego\Version 3\PlayerOnStage-3 1\PlayerOnStage\PlayerOnStage\bin\x86\Release\Content\Acciones\Herido.xnb</Output>
+      <Time>2013-11-01T14:35:42-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Acciones\Herir.png</Source>
+      <Name>Acciones\Herir</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\psf\Home\Documents\Proyectos\Versiones de Juego\Version 3\PlayerOnStage-3 1\PlayerOnStage\PlayerOnStage\bin\x86\Release\Content\Acciones\Herir.xnb</Output>
+      <Time>2013-11-01T20:37:54-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Acciones\Inactivo.png</Source>
+      <Name>Acciones\Inactivo</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\psf\Home\Documents\Proyectos\Versiones de Juego\Version 3\PlayerOnStage-3 1\PlayerOnStage\PlayerOnStage\bin\x86\Release\Content\Acciones\Inactivo.xnb</Output>
+      <Time>2013-11-01T14:35:42-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Acciones\ItemThrow.png</Source>
+      <Name>Acciones\ItemThrow</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\psf\Home\Documents\Proyectos\Versiones de Juego\Version 3\PlayerOnStage-3 1\PlayerOnStage\PlayerOnStage\bin\x86\Release\Content\Acciones\ItemThrow.xnb</Output>
+      <Time>2013-11-01T20:37:54-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Acciones\Lanzar_Item.png</Source>
+      <Name>Acciones\Lanzar_Item</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\psf\Home\Documents\Proyectos\Versiones de Juego\Version 3\PlayerOnStage-3 1\PlayerOnStage\PlayerOnStage\bin\x86\Release\Content\Acciones\Lanzar_Item.xnb</Output>
+      <Time>2013-11-01T14:35:42-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Acciones\Muerte.png</Source>
+      <Name>Acciones\Muerte</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\psf\Home\Documents\Proyectos\Versiones de Juego\Version 3\PlayerOnStage-3 1\PlayerOnStage\PlayerOnStage\bin\x86\Release\Content\Acciones\Muerte.xnb</Output>
+      <Time>2013-11-01T14:35:42-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Acciones\Preparar_item.png</Source>
+      <Name>Acciones\Preparar_item</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\psf\Home\Documents\Proyectos\Versiones de Juego\Version 3\PlayerOnStage-3 1\PlayerOnStage\PlayerOnStage\bin\x86\Release\Content\Acciones\Preparar_item.xnb</Output>
+      <Time>2013-11-01T14:35:42-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Acciones\Saltar.png</Source>
+      <Name>Acciones\Saltar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\psf\Home\Documents\Proyectos\Versiones de Juego\Version 3\PlayerOnStage-3 1\PlayerOnStage\PlayerOnStage\bin\x86\Release\Content\Acciones\Saltar.xnb</Output>
+      <Time>2013-11-01T14:35:42-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Acciones\Salto_atras.png</Source>
+      <Name>Acciones\Salto_atras</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\psf\Home\Documents\Proyectos\Versiones de Juego\Version 3\PlayerOnStage-3 1\PlayerOnStage\PlayerOnStage\bin\x86\Release\Content\Acciones\Salto_atras.xnb</Output>
+      <Time>2013-11-01T14:35:42-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Acciones\SimAtk.png</Source>
+      <Name>Acciones\SimAtk</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\psf\Home\Documents\Proyectos\Versiones de Juego\Version 3\PlayerOnStage-3 1\PlayerOnStage\PlayerOnStage\bin\x86\Release\Content\Acciones\SimAtk.xnb</Output>
+      <Time>2013-11-01T14:35:42-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Acciones\Stand.png</Source>
+      <Name>Acciones\Stand</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\psf\Home\Documents\Proyectos\Versiones de Juego\Version 3\PlayerOnStage-3 1\PlayerOnStage\PlayerOnStage\bin\x86\Release\Content\Acciones\Stand.xnb</Output>
+      <Time>2013-11-01T20:37:54-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Rectangles\fire.png</Source>
+      <Name>Rectangles\fire</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\psf\Home\Documents\Proyectos\Versiones de Juego\Version 3\PlayerOnStage-3 1\PlayerOnStage\PlayerOnStage\bin\x86\Release\Content\Rectangles\fire.xnb</Output>
+      <Time>2013-11-18T21:41:10-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Rectangles\RectangleAire.png</Source>
+      <Name>Rectangles\RectangleAire</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\psf\Home\Documents\Proyectos\Versiones de Juego\Version 3\PlayerOnStage-3 1\PlayerOnStage\PlayerOnStage\bin\x86\Release\Content\Rectangles\RectangleAire.xnb</Output>
+      <Time>2013-11-18T23:30:16-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Rectangles\ReectangleAireHori.png</Source>
+      <Name>Rectangles\ReectangleAireHori</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\psf\Home\Documents\Proyectos\Versiones de Juego\Version 3\PlayerOnStage-3 1\PlayerOnStage\PlayerOnStage\bin\x86\Release\Content\Rectangles\ReectangleAireHori.xnb</Output>
+      <Time>2013-11-18T23:30:16-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Player\Ataque_Paraguas_Agachado.png</Source>
+      <Name>Player\Ataque_Paraguas_Agachado</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\psf\Home\Documents\Proyectos\Versiones de Juego\Version 3\PlayerOnStage-3 1\PlayerOnStage\PlayerOnStage\bin\x86\Release\Content\Player\Ataque_Paraguas_Agachado.xnb</Output>
+      <Time>2013-11-18T15:46:10-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Player\Golpe.png</Source>
+      <Name>Player\Golpe</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\psf\Home\Documents\Proyectos\Versiones de Juego\Version 3\PlayerOnStage-3 1\PlayerOnStage\PlayerOnStage\bin\x86\Release\Content\Player\Golpe.xnb</Output>
+      <Time>2013-11-18T19:27:16-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Miclantechutli\Miclantechutli8.png</Source>
+      <Name>Miclantechutli\Miclantechutli8</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\psf\Home\Documents\Proyectos\Versiones de Juego\Version 3\PlayerOnStage-3 1\PlayerOnStage\PlayerOnStage\bin\x86\Release\Content\Miclantechutli\Miclantechutli8.xnb</Output>
+      <Time>2013-11-21T22:54:48-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemigos\PuntaPedernal\puntaPedernal2.png</Source>
+      <Name>Enemigos\PuntaPedernal\puntaPedernal2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\psf\Home\Documents\Proyectos\Versiones de Juego\Version 3\PlayerOnStage-3 1\PlayerOnStage\PlayerOnStage\bin\x86\Release\Content\Enemigos\PuntaPedernal\puntaPedernal2.xnb</Output>
+      <Time>2013-11-22T00:47:22-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\Tile19.png</Source>
+      <Name>Tiles\Tile19</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\psf\Home\Documents\Proyectos\Versiones de Juego\Version 3\PlayerOnStage-3 1\PlayerOnStage\PlayerOnStage\bin\x86\Release\Content\Tiles\Tile19.xnb</Output>
+      <Time>2013-11-22T01:35:59-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\Tile20.png</Source>
+      <Name>Tiles\Tile20</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\psf\Home\Documents\Proyectos\Versiones de Juego\Version 3\PlayerOnStage-3 1\PlayerOnStage\PlayerOnStage\bin\x86\Release\Content\Tiles\Tile20.xnb</Output>
+      <Time>2013-11-22T01:40:26-06:00</Time>
+    </Item>
+    <Item>
+      <Source>MuestraDatos.spritefont</Source>
+      <Name>MuestraDatos</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\psf\Home\Documents\Proyectos\Versiones de Juego\Version 3\PlayerOnStage-3 1\PlayerOnStage\PlayerOnStage\bin\x86\Release\Content\MuestraDatos.xnb</Output>
+      <Time>2013-11-01T14:40:54-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Huitzilopochtli.mp3</Source>
+      <Name>Huitzilopochtli</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\psf\Home\Documents\Proyectos\Versiones de Juego\Version 3\PlayerOnStage-3 1\PlayerOnStage\PlayerOnStage\bin\x86\Release\Content\Huitzilopochtli.xnb</Output>
+      <Extra>\\psf\Home\Documents\Proyectos\Versiones de Juego\Version 3\PlayerOnStage-3 1\PlayerOnStage\PlayerOnStage\bin\x86\Release\Content\Huitzilopochtli.wma</Extra>
+      <Time>2013-11-16T00:44:38-06:00</Time>
+    </Item>
+    <Item>
+      <Source>HuitzilopochtliF.mp3</Source>
+      <Name>HuitzilopochtliF</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\psf\Home\Documents\Proyectos\Versiones de Juego\Version 3\PlayerOnStage-3 1\PlayerOnStage\PlayerOnStage\bin\x86\Release\Content\HuitzilopochtliF.xnb</Output>
+      <Extra>\\psf\Home\Documents\Proyectos\Versiones de Juego\Version 3\PlayerOnStage-3 1\PlayerOnStage\PlayerOnStage\bin\x86\Release\Content\HuitzilopochtliF.wma</Extra>
+      <Time>2013-11-16T01:17:30-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Final.mp3</Source>
+      <Name>Final</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\psf\Home\Documents\Proyectos\Versiones de Juego\Version 3\PlayerOnStage-3 1\PlayerOnStage\PlayerOnStage\bin\x86\Release\Content\Final.xnb</Output>
+      <Extra>\\psf\Home\Documents\Proyectos\Versiones de Juego\Version 3\PlayerOnStage-3 1\PlayerOnStage\PlayerOnStage\bin\x86\Release\Content\Final.wma</Extra>
+      <Time>2013-11-18T13:58:50-06:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{1B633896-25EC-4234-B32A-B9A62C7B9954}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Release</BuildConfiguration>
+      <CompressContent>true</CompressContent>
+      <RootDirectory>\\psf\Home\Documents\Proyectos\Versiones de Juego\Version 3\PlayerOnStage-3 1\PlayerOnStage\PlayerOnStageContent\</RootDirectory>
+      <LoggerRootDirectory>\\psf\Home\Documents\Proyectos\Versiones de Juego\Version 3\PlayerOnStage-3 1\PlayerOnStage\PlayerOnStage\</LoggerRootDirectory>
+      <IntermediateDirectory>\\psf\Home\Documents\Proyectos\Versiones de Juego\Version 3\PlayerOnStage-3 1\PlayerOnStage\PlayerOnStage\obj\x86\Release\</IntermediateDirectory>
+      <OutputDirectory>\\psf\Home\Documents\Proyectos\Versiones de Juego\Version 3\PlayerOnStage-3 1\PlayerOnStage\PlayerOnStage\bin\x86\Release\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2014-04-16T16:48:50.3402-05:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

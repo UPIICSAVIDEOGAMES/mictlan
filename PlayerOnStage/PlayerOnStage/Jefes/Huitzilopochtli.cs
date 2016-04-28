@@ -190,7 +190,22 @@ namespace PlayerOnStage
             caminando = false;
 
             jefeRect = new Rectangle((int)posiHuitzi.X, (int)posiHuitzi.Y - 40, hitText.Width, hitText.Height);
+            if (player.flechas.Count > 1)
+            {
+                foreach (Proyectil proyectil in player.flechas)
+                {
+                    if (proyectil.rectangulo_flecha.Intersects(jefeRect))
+                    {
 
+                        player.getHUD().rect_HP_Boss.Width -= 1;
+                        this.jefeGetHit = true;
+                    }
+                    if (player.getHUD().rect_HP_Boss.Width <= 0)
+                    {
+                        base.jefeDie = true;
+                    }
+                }
+            }
             if (prueba)
             {
                 timeEsperaCabeza += CONTADOR_SUMATORIA;

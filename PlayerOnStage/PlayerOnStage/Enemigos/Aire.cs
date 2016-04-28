@@ -24,14 +24,13 @@ namespace PlayerOnStage
         {
 
             AireText = Content.Load<Texture2D>("Rectangles/RectangleAire");
+           
             
            
         }
         public void Update(GameTime gameTime, Player player)
         {
-
             rectaire = new Rectangle((int)AirePos.X, (int)AirePos.Y, AireText.Width, AireText.Height);
-
             
 
 

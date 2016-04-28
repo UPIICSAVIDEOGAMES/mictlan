@@ -75,7 +75,7 @@ namespace PlayerOnStage
                 flip = SpriteEffects.None;
             else if (flipeado == true)
                 flip = SpriteEffects.FlipHorizontally;
-            spriteBatch.Draw(zombieText, enemigoRect, Color.White);
+           // spriteBatch.Draw(zombieText, enemigoRect, Color.White);
             animacionZombie.Draw(gameTime, spriteBatch, enemPosicion, flip);
         }
         public void acciones(Player player)

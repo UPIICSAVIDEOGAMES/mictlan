@@ -1,0 +1,3 @@
+\\psf\Home\Desktop\Versiones de Juego\Version 3\PlayerOnStage-3 1\PlayerOnStage\PlayerOnStageContent\obj\x86\Release\ResolveAssemblyReference.cache
+\\psf\Home\Desktop\docs\Versiones de Juego\Version 3\PlayerOnStage-3 1\PlayerOnStage\PlayerOnStageContent\obj\x86\Release\ResolveAssemblyReference.cache
+\\psf\Home\Documents\Proyectos\Versiones de Juego\Version 3\PlayerOnStage-3 1\PlayerOnStage\PlayerOnStageContent\obj\x86\Release\ResolveAssemblyReference.cache

@@ -17,13 +17,8 @@ namespace PlayerOnStage
         float timeCounterAve;
         private Ave ave;
         private Aire aire;
-        private Aire aire2;
         private Aire aire3;
-        private Aire aire4;
-        private Aire aire5;
-        private Aire aire6;
-        private Aire aire7;
-
+        private AireHori aire2;
         List<Aire> ListaAire;
         List<Ave> aves;
         Huitzilopochtli jefeHuitzi;
@@ -70,11 +65,7 @@ namespace PlayerOnStage
 
             aire = new Aire();
             aire3 = new Aire();
-            aire2 = new Aire();
-            aire4 = new Aire();
-            aire5 = new Aire();
-            aire6 = new Aire();
-            aire7 = new Aire();
+            aire2 = new AireHori();
             ListaAire = new List<Aire>();
             ave = new Ave();
             aves = new List<Ave>();
@@ -101,11 +92,6 @@ namespace PlayerOnStage
             aire.Load(Content);
             aire2.Load(Content);
             aire3.Load(Content);
-            aire4.Load(Content);
-            aire5.Load(Content);
-            aire6.Load(Content);
-            aire7.Load(Content);
-
             ave.Load(Content);
         }
 
@@ -139,45 +125,23 @@ namespace PlayerOnStage
                 aire.Update(gameTime, player);
                 ListaAire.Add(aires);
 
-                aire2.AirePos.X = 10800;
-                aire2.AirePos.Y = 800;
-                aire2.Update(gameTime, player);
+               /* aire2.AirePosHori.X = 700;
+                aire2.AirePosHori.Y = 900;
+                aire2.Update(gameTime, player);*/
 
                 aire3.AirePos.X = 4200;
                 aire3.AirePos.Y = 850;
                 aire3.Update(gameTime, player);
 
-                aire4.AirePos.X = 11700;
-                aire4.AirePos.Y = 850;
-                aire4.Update(gameTime, player);
-                
-                aire5.AirePos.X = 12500;
-                aire5.AirePos.Y = 1000;
-                aire5.Update(gameTime, player);
-
-                aire6.AirePos.X = 14000;
-                aire6.AirePos.Y = 850;
-                aire6.Update(gameTime, player);
-                
-                /*aire7.AirePos.X = 15000;
-                aire7.AirePos.Y = 850;
-                aire7.Update(gameTime, player);*/
-
             }
 
-            if (player.rect_paraguard_derecha.Intersects(aire.rectaire) || player.rect_paraguard_izquierda.Intersects(aire.rectaire) || player.rect_paraguard_derecha.Intersects(aire2.rectaire) || player.rect_paraguard_izquierda.Intersects(aire2.rectaire) || player.rect_paraguard_izquierda.Intersects(aire3.rectaire) || player.rect_paraguard_derecha.Intersects(aire3.rectaire) || player.rect_paraguard_derecha.Intersects(aire4.rectaire) || player.rect_paraguard_izquierda.Intersects(aire4.rectaire) || player.rect_paraguard_derecha.Intersects(aire5.rectaire) || player.rect_paraguard_izquierda.Intersects(aire5.rectaire) || player.rect_paraguard_derecha.Intersects(aire6.rectaire) || player.rect_paraguard_izquierda.Intersects(aire6.rectaire) || player.rect_paraguard_derecha.Intersects(aire7.rectaire) || player.rect_paraguard_izquierda.Intersects(aire7.rectaire))
+            if (player.rect_paraguard_derecha.Intersects(aire.rectaire) || player.rect_paraguard_izquierda.Intersects(aire.rectaire) || player.rect_paraguard_izquierda.Intersects(aire3.rectaire) || player.rect_paraguard_derecha.Intersects(aire3.rectaire))
             {
-               
-                player.velocity.Y = -12f;
-                player.saltarBool = true;
-
+                //player.posicion.Y -=30f;
+                player.velocity.Y = -15f;
+                //player.saltarBool = true;
             }
-            else if (player.rectparaguas.Intersects(aire.rectaire) || player.rectparaguas.Intersects(aire2.rectaire) || player.rectparaguas.Intersects(aire3.rectaire) || player.rectparaguas.Intersects(aire4.rectaire) || player.rectparaguas.Intersects(aire5.rectaire) || player.rectparaguas.Intersects(aire6.rectaire) || player.rectparaguas.Intersects(aire7.rectaire))
-            {
-                player.velocity.Y = -8f;
-
-            }
-           /* if (player.rect_paraguard_derecha.Intersects(aire2.rectaireHori))
+            if (player.rect_paraguard_derecha.Intersects(aire2.rectaireHori))
             {
                 //player.posicion.Y -=30f;
                 player.posicion.X += 5;
@@ -189,13 +153,13 @@ namespace PlayerOnStage
                 player.posicion.X += 5;
                 player.velocity.X = -35f;
             }
-            */
-            //if (player.posicion.X >= 900)
+
+
             if (player.posicion.X >= 16120)
             {
                 nivelCompleto = true;
-                player.posicion.X = 50;
-                player.posicion.Y = 700;
+                player.posicion.X = 180;
+                player.posicion.Y = 1025;
 
             }
 
@@ -282,12 +246,7 @@ namespace PlayerOnStage
         {
             //Aqui  se le pone el fondo
             aire.Draw(gameTime, spriteBatch);
-            aire2.Draw(gameTime, spriteBatch);
             aire3.Draw(gameTime, spriteBatch);
-            aire4.Draw(gameTime, spriteBatch);
-            aire5.Draw(gameTime, spriteBatch);
-            aire6.Draw(gameTime, spriteBatch);
-            //aire7.Draw(gameTime, spriteBatch);
             foreach (Ave ave in aves)
             {
                 ave.Draw(gameTime, spriteBatch);
