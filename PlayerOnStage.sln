@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlayerOnStage", "PlayerOnStage\PlayerOnStage\PlayerOnStage.csproj", "{63204DA6-7527-494F-9F66-E4B2B8EB15AF}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "PlayerOnStageContent", "PlayerOnStage\PlayerOnStageContent\PlayerOnStageContent.contentproj", "{1B633896-25EC-4234-B32A-B9A62C7B9954}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{63204DA6-7527-494F-9F66-E4B2B8EB15AF}.Debug|x86.ActiveCfg = Debug|x86
+		{63204DA6-7527-494F-9F66-E4B2B8EB15AF}.Debug|x86.Build.0 = Debug|x86
+		{63204DA6-7527-494F-9F66-E4B2B8EB15AF}.Release|x86.ActiveCfg = Release|x86
+		{63204DA6-7527-494F-9F66-E4B2B8EB15AF}.Release|x86.Build.0 = Release|x86
+		{1B633896-25EC-4234-B32A-B9A62C7B9954}.Debug|x86.ActiveCfg = Debug|x86
+		{1B633896-25EC-4234-B32A-B9A62C7B9954}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

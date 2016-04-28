@@ -1,0 +1,25 @@
+C:\Users\rk_ri_000\Documents\Escuela\VideoGames\PlayerOnStage\PlayerOnStage\PlayerOnStageContent\obj\x86\Debug\PlayerOnStageContent.contentprojResolveAssemblyReference.cache
+C:\Users\munguia\Documents\Documentos salvador\Raptor-UVG\PlayerOnStage\PlayerOnStage\PlayerOnStageContent\obj\x86\Debug\PlayerOnStageContent.contentprojResolveAssemblyReference.cache
+\\psf\Home\Desktop\PlayerOnStage-2\PlayerOnStage\PlayerOnStageContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\rk_ri_000\Desktop\MICTLAN\PlayerOnStage-2 2\PlayerOnStage-2\PlayerOnStage\PlayerOnStageContent\obj\x86\Debug\PlayerOnStageContent.contentprojResolveAssemblyReference.cache
+C:\Users\munguia\Documents\Documentos salvador\Raptor-UVG\PlayerOnStage-2 3\PlayerOnStage-2\PlayerOnStage\PlayerOnStageContent\obj\x86\Debug\PlayerOnStageContent.contentprojResolveAssemblyReference.cache
+\\psf\Home\Desktop\Juego\PlayerOnStage-2\PlayerOnStage\PlayerOnStageContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\munguia\Documents\Documentos salvador\Raptor-UVG\juego\PlayerOnStage-2 3\juego version 8\PlayerOnStage-2\PlayerOnStage\PlayerOnStageContent\obj\x86\Debug\PlayerOnStageContent.contentprojResolveAssemblyReference.cache
+\\psf\Home\Desktop\Juego\Version final 2\PlayerOnStage-2-1\PlayerOnStage\PlayerOnStageContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\munguia\Documents\Documentos salvador\Raptor-UVG\juego\PlayerOnStage-2 3\version 10\PlayerOnStage-2-1\PlayerOnStage\PlayerOnStageContent\obj\x86\Debug\PlayerOnStageContent.contentprojResolveAssemblyReference.cache
+C:\Users\Vale\Desktop\PlayerOnStage-2-1\PlayerOnStage\PlayerOnStageContent\obj\x86\Debug\PlayerOnStageContent.contentprojResolveAssemblyReference.cache
+C:\Users\Vale\Desktop\PlayerOnStage-2-12\PlayerOnStage\PlayerOnStageContent\obj\x86\Debug\PlayerOnStageContent.contentprojResolveAssemblyReference.cache
+C:\Users\munguia\Documents\Documentos salvador\Raptor-UVG\juegoversiones\PlayerOnStage-2 3\version nueva\PlayerOnStage-2-13\PlayerOnStage\PlayerOnStageContent\obj\x86\Debug\PlayerOnStageContent.contentprojResolveAssemblyReference.cache
+C:\Users\Vale\Desktop\PlayerOnStage-2-15\PlayerOnStage\PlayerOnStageContent\obj\x86\Debug\PlayerOnStageContent.contentprojResolveAssemblyReference.cache
+C:\Users\Vale\Desktop\PlayerOnStage-2-16\PlayerOnStage\PlayerOnStageContent\obj\x86\Debug\PlayerOnStageContent.contentprojResolveAssemblyReference.cache
+C:\Users\rk_ri_000\Desktop\MICTLÁN - DROPBOX\PlayerOnStage-2-17\PlayerOnStage\PlayerOnStageContent\obj\x86\Debug\PlayerOnStageContent.contentprojResolveAssemblyReference.cache
+C:\Users\rk_ri_000\Desktop\PlayerOnStage-2-18\PlayerOnStage\PlayerOnStageContent\obj\x86\Debug\PlayerOnStageContent.contentprojResolveAssemblyReference.cache
+C:\Users\munguia\Documents\Documentos salvador\Raptor-UVG\juegoversiones\PlayerOnStage-2 3\version nueva\PlayerOnStage-2-18\PlayerOnStage\PlayerOnStageContent\obj\x86\Debug\PlayerOnStageContent.contentprojResolveAssemblyReference.cache
+\\psf\Home\Desktop\Versiones de Juego\PlayerOnStage-2-19\PlayerOnStage\PlayerOnStageContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Vale\Desktop\PlayerOnStage-2-19.5\PlayerOnStage\PlayerOnStageContent\obj\x86\Debug\PlayerOnStageContent.contentprojResolveAssemblyReference.cache
+\\psf\Home\Desktop\Versiones de Juego\PlayerOnStage-2-22\PlayerOnStage\PlayerOnStageContent\obj\x86\Debug\ResolveAssemblyReference.cache
+\\psf\Home\Desktop\Versiones de Juego\PlayerOnStage-2-23\PlayerOnStage\PlayerOnStageContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\rk_ri_000\Desktop\MICTLAN\PlayerOnStage-2-23\PlayerOnStage\PlayerOnStageContent\obj\x86\Debug\PlayerOnStageContent.contentprojResolveAssemblyReference.cache
+C:\Users\munguia\Documents\Documentos salvador\Raptor-UVG\juegoversiones\PlayerOnStage-2 3\version nueva\PlayerOnStage-3 0\PlayerOnStage\PlayerOnStageContent\obj\x86\Debug\PlayerOnStageContent.contentprojResolveAssemblyReference.cache
+C:\Users\munguia\Documents\Documentos salvador\Raptor-UVG\juegoversiones\PlayerOnStage-2 3\version nueva\PlayerOnStage-3 1\PlayerOnStage\PlayerOnStageContent\obj\x86\Debug\PlayerOnStageContent.contentprojResolveAssemblyReference.cache
+C:\Users\munguia\Documents\Documentos salvador\Raptor-UVG\juegoversiones\PlayerOnStage-2 3\version nueva\PlayerOnStage-3 2\PlayerOnStage\PlayerOnStageContent\obj\x86\Debug\PlayerOnStageContent.contentprojResolveAssemblyReference.cache
